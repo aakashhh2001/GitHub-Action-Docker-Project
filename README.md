@@ -216,23 +216,3 @@ docker.io/<username>/flask-app:latest
 
 ---
 
-## 10. Recommended Improvements
-
-* Add version tags (`sha-<commit>`)
-* Multi-stage Dockerfile
-* Kubernetes deployment
-* Deploy to AWS EC2/ECR
-* Add test steps before build
-
----
-
-## License
-
-This project is for learning and demonstration purposes.
-
-```
-
----
-
-If you want this README with **images**, **badges**, or **architecture diagrams**, just say the word — I’ll generate it exactly like the screenshot you showed.
-```
