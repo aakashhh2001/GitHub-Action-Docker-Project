@@ -58,10 +58,16 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Hello Bubu! Your Flask app is running successfully!"
+    return "Hello aakshhh! Your Flask app is running successfully!"
 
 if __name__ == "__main__":
     # Listen on all interfaces inside the container and port 3000
     app.run(host="0.0.0.0", port=3000)
+
+
+
+### 'requirements.txt'
+
+'''flask==3.0.0
 
 
